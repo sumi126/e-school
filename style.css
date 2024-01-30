@@ -5,6 +5,9 @@ top: 30px;
 left: 212px;
 
 }
+.nav-link{
+    color: black;
+}
 .bg{
 background-color: #F0FFF0;
 padding-bottom: 40px;
@@ -44,7 +47,7 @@ h6,h4{
     
 }
 p{
-    font-size: 10px;
+    font-size: 16px;
 }
 .div4
 {
@@ -87,8 +90,8 @@ h5{
     text-align: center;
 }
 .footer-style{
-    width: 15px;
-    height: 17px;
+    width: 24px;
+    height: 24px;
     margin: 1px 1px 5px 1px;
 }
 .footer-p{
